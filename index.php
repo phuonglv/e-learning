@@ -1,5 +1,5 @@
 <?php 
 header('location: exam.php');
 
-//update lần 1
+//update lần 2
 ?>
